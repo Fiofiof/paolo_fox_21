@@ -100,7 +100,7 @@ $(document).ready(function(){
 	];
 		
 
-		$('#quoteButton').click(function(evt){
+		$('#quoteButton1, #quoteButton2,#quoteButton3, #quoteButton4,#quoteButton5,#quoteButton6, #quoteButton7,#quoteButton8,#quoteButton9,#quoteButton10,#quoteButton11,#quoteButton12').click(function(evt){
 			//define the containers of the info we target
 			var quote = $('#quoteContainer p').text();
 			var quoteGenius = $('#quoteGenius').text();
