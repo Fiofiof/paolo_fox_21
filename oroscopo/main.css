@@ -15,12 +15,12 @@ body{
 }
 
 #quoteContainer{
-	width:75%;
+	width:100%;
 	background: #fff;
 	padding:10px;
-	margin:30px auto;
+	margin:50px auto;
 	text-align: center;
-  height:70px;
+  height:100px;
 }
 #buttonContainer{
 	width: 100%;
@@ -322,7 +322,8 @@ body{
 
 /*MEDIA QUERIES*/
 @media screen and(max-width:760px){
-	#quoteButton1,#addNew{
+	#quoteButton1,#quoteButton2,#quoteButton3,#quoteButton4,#quoteButton5,#quoteButton6,#quoteButton7,
+	#quoteButton8,#quoteButton9,#quoteButton10,#quoteButton11,#quoteButton12,#addNew{
 		display: block;
 	}
 }

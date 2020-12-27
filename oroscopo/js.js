@@ -34,7 +34,7 @@ $(document).ready(function(){
 	    },
 	    {
 	    	quote:"Inizia a correre.",
-	    	name:"Non ti va bene? Vuoi un altro futuro? (Io lo vorrei)"
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
 	    	quote:"Continuerai a cliccare sul tuo segno finchè non uscirà un futuro che ti piaccia. Whew. Stai un po messo/a male.",
@@ -58,7 +58,7 @@ $(document).ready(function(){
 	    },
 	    {
 	    	quote:"Troverai la felicità nelle piccole cose. Sarà tutto piccolo, quest'anno: il tuo conto in banca, la tua nuova stanza, le tue speranze, sbaglierai a far la lavatrice, ed i vestiti saran piccoli pure loro...beh, anche i capelli non se la passeranno bene. Ma c'è della felicità, te lo giuro.",
-	    	name:"Non ti va bene? Vuoi un altro (piccolo) futuro?"
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
 	    	quote:"Giocherai a morra cinese con un ubriaco, che si scoprirà essere Satya Nadella. Adesso sei il propretario/a della Microsoft.",
@@ -66,14 +66,14 @@ $(document).ready(function(){
 	    },
 	    {
 	    	quote:"Non so cosa tu combinerai nel 2021, ma ti ritroveremo accanto a Mattarella nel discorso di fine anno.",
-	    	name:"Non ti va bene? Vuoi un altro futuro?
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
 	    	quote:"Farai una presentazione talmente bella che sarà esposta al Louvre. Sia formato PDF che PPT.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Inizierai ad inviare curriculum a chiunque su Linkedin, a qualsiasi HR, finchè non lo manderai a te stesso, ti assumerai ed il circolo della vita sarà completo.",
+	    	quote:"Inizierai ad inviare curriculum a chiunque su Linkedin, a qualsiasi HR, finchè non lo manderai a te stesso, ti assumerai ed il cerchio della vita sarà completo.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
@@ -94,7 +94,7 @@ $(document).ready(function(){
 	    },
 	    {
 	    	quote:"Hapiness is not something ready made. It comes from your own actions.",
-	    	name:"Non ti va bene? Vuoi un altro futuro?
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    }
 
 	];
