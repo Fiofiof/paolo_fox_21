@@ -1,100 +1,100 @@
 $(document).ready(function(){
 		var quoteSource=[
 		{
-			quote: "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
-			name:"Francis of Assisi"
+			quote: "Ci sarà uno scambio di identità e diventerai Partner KPMG. Te la godrai alla grande, prima della bancarotta fraudolenta. Peccato!",
+			name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Believe you can and you're halfway there.",
-	    	name:"Theodore Roosevelt"
+	    	quote:"Mentre stai camminando al Duomo, canticchiando, ti noterà Mara Maionchi e diventerai famoso/a.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"It does not matter how slowly you go as long as you do not stop.",
-	    	name:"Confucius"
+	    	quote:"Mi spiace, ma anche il 2021 sarà un po' una merda. Vabeh dai, ce l'hai fatta nel 2020, ce la farai anche ora.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
-	    	name:"Thomas A. Edison"
+	    	quote:"Troverai 10 euro per terra. Non è un granchè, ma io mi accontenterei.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.",
-	    	name:"Confucius"
+	    	quote:"Ti licenzierai per fare un viaggio avventura in solitaria in Nuova Zelanda. Sbaglierai aereo, volerai in Australia e troverai la tua strada come stylist di canguri.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Don't watch the clock; do what it does. Keep going.",
-	    	name:"Sam Levenson"
+	    	quote:"Ti chiuderanno per sbaglio nel Planetario, una notte, e lì scoprirai i segreti dell'universo. Una volta uscito/a, fonderai una nuova religione, con te unico/a messia.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"A creative man is motivated by the desire to achieve, not by the desire to beat others.",
-	    	name:"Ayn Rand"
+	    	quote:"Accarezzerai molti gatti. Interpretala un po' come ti pare.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"A creative man is motivated by the desire to achieve, not by the desire to beat others.",
-	    	name:"Ayn Rand"
+	    	quote:"Scoprirai la tua nuova vocazione: il canto lirico. Ti cacceranno via di casa perchè i vicini non ti sopportano più, certo, ma adesso piazza Duomo ha un nuovo idolo.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Expect problems and eat them for breakfast.",
-	    	name:"Alfred A. Montapert"
+	    	quote:"Inizia a correre.",
+	    	name:"Non ti va bene? Vuoi un altro futuro? (Io lo vorrei)"
 	    },
 	    {
-	    	quote:"Start where you are. Use what you have. Do what you can.",
-	    	name:"Arthur Ashe"
+	    	quote:"Continuerai a cliccare sul tuo segno finchè non uscirà un futuro che ti piaccia. Whew. Stai un po messo/a male.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
-	    	name:"Samuel Beckett"
+	    	quote:"Mentre stai camminando verso l'Arco della Pace, sarai inglobato da un gruppo no-vax 5G anti-immigrati. A fine anno sarai presidente della Lega.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Be yourself; everyone else is already taken.",
-	    	name:"Oscar Wilde"
+	    	quote:"Finalmente capirai tutto ciò che non va nella tua vita e lo sistemerai. Sarà un bell'anno. Complimenti.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-	    	name:"Albert Einstein"
+	    	quote:"Una sera, al Panika, in preda ad una sbroza cosmica, suggerirai di aggiungere del cioccolato fondente al Toast classico. Barbieri, che era lì a farsi una birra, ti noterà e ti eleggerà vincitore di MasterChef 11.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Always remember that you are absolutely unique. Just like everyone else.",
-	    	name:"Margaret Mead"
+	    	quote:"La Juve NON vincerà lo scudetto. A me basta. A te no?",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Do not take life too seriously. You will never get out of it alive.",
-	    	name:"Elbert Hubbard"
+	    	quote:"Troverai la felicità nelle piccole cose. Sarà tutto piccolo, quest'anno: il tuo conto in banca, la tua nuova stanza, le tue speranze, sbaglierai a far la lavatrice, ed i vestiti saran piccoli pure loro...beh, anche i capelli non se la passeranno bene. Ma c'è della felicità, te lo giuro.",
+	    	name:"Non ti va bene? Vuoi un altro (piccolo) futuro?"
 	    },
 	    {
-	    	quote:"People who think they know everything are a great annoyance to those of us who do.",
-	    	name:"Isaac Asimov"
+	    	quote:"Giocherai a morra cinese con un ubriaco, che si scoprirà essere Satya Nadella. Adesso sei il propretario/a della Microsoft.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Procrastination is the art of keeping up with yesterday.",
-	    	name:"Don Marquis"
+	    	quote:"Non so cosa tu combinerai nel 2021, ma ti ritroveremo accanto a Mattarella nel discorso di fine anno.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?
 	    },
 	    {
-	    	quote:"Get your facts first, then you can distort them as you please.",
-	    	name:"Mark Twain"
+	    	quote:"Farai una presentazione talmente bella che sarà esposta al Louvre. Sia formato PDF che PPT.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"A day without sunshine is like, you know, night.",
-	    	name:"Steve Martin"
+	    	quote:"Inizierai ad inviare curriculum a chiunque su Linkedin, a qualsiasi HR, finchè non lo manderai a te stesso, ti assumerai ed il circolo della vita sarà completo.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"My grandmother started walking five miles a day when she was sixty. She's ninety-seven now, and we don't know where the hell she is.",
-	    	name:"Ellen DeGeneres"
+	    	quote:"Ti farai una foto con la fotocamera frontale per sbaglio e, sempre per sbaglio, la posterai su instagram. Sarai il nuovo meme del 2021.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Don't sweat the petty things and don't pet the sweaty things.",
-	    	name:"George Carlin"
+	    	quote:"xxx",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
 	    	quote:"Always do whatever's next.",
-	    	name:"George Carlin"
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
 	    	quote:"Atheism is a non-prophet organization.",
-	    	name:"George Carlin"
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
 	    	quote:"Hapiness is not something ready made. It comes from your own actions.",
-	    	name:"Dalai Lama"
+	    	name:"Non ti va bene? Vuoi un altro futuro?
 	    }
 
 	];
