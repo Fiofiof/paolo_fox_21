@@ -81,22 +81,57 @@ $(document).ready(function(){
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"xxx",
+	    	quote:"Deciderai di adottare un bradipo. Verrò sempre a casa tua per coccolarlo. Si chiamerà Gilberto.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Always do whatever's next.",
+	    	quote:"Ti accrediteranno per sbaglio un milione di euro sul conto. Stranamente, nessuno noterà l'errore e tu potrai vivere felicemente da mantenuto.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Atheism is a non-prophet organization.",
+	    	quote:"Riuscirai a non perdere nessun calzino quest'anno. Io, onestamente, ti ammiro.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Hapiness is not something ready made. It comes from your own actions.",
+	    	quote:"Durante una corsetta al Sempione ti distrarrai un po' troppo e ti ritroverai in un bosco incantato. Lì inizierà la tua seconda vita come spacciatore di scivolizia incantata.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
-	    }
-
+	    },
+		{
+	    	quote:"Ti dimenticherai il microfono acceso durante una call...proprio in un giorno in cui ti eri svegliato particolarmente ironico. Per fortuna i clienti son tutti presi bene e ridono alle tue battute. Il manager un po' meno. Ti licenziano.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Ti dimenticherai il microfono acceso durante una call...proprio in un giorno in cui ti eri svegliato particolarmente ironico. Per fortuna i clienti son tutti presi bene e ridono alle tue battute. Anche il manager. Da quel giorno ti chiederanno sempre di aprire i meeting con un piccolo cabaret.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Pogherai troppo forte al tuo prossimo concerto e darai una capocciata alla persone davanti a te. Trauma cranico per entrambi, ma durante le ore in ospedale vi innamorate. E' una storia carina da raccontare ai posteri, no?",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Diventerai l'eroe di noialtri ed andrai a zappare la terra. Ti verremo a trovare quasi una volta al mese, con gli occhi sognanti e le braccia piene di pomodori e zucchine. Grandissimo/a.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Ti fulminerai cambiando una lampadina. Lo shock ti renderà superintelligente e vincerai il nobel per la fisica. Ricordati di me, ok?",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Ti pagheranno degli straordinari. Già, lo so, roba da non crederci.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Troverai un typo in un libro e chiamerai la casa editrice per farlo notare. Ti manderanno a cagare. No, davvero, che ti aspettavi?",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Una notte buia e di tempesta, apparirà un fantasma nella tua stanza. Diventerete migliori amici. Non potrà bere birre con te, ma di sicuro non dirà di no ad un paio di tiri.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"xxxx",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
 	];
 		
 
