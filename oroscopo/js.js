@@ -41,7 +41,7 @@ $(document).ready(function(){
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Mentre stai camminando verso l'Arco della Pace, sarai inglobato da un gruppo no-vax 5G anti-immigrati. A fine anno sarai presidente della Lega.",
+	    	quote:"Mentre stai camminando verso l'Arco della Pace, sarai inglobato/a da un gruppo no-vax 5G anti-immigrati. A fine anno sarai presidente della Lega.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
@@ -61,7 +61,7 @@ $(document).ready(function(){
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Giocherai a morra cinese con un ubriaco, che si scoprirà essere Satya Nadella. Adesso sei il propretario/a della Microsoft.",
+	    	quote:"Giocherai a morra cinese con un ubriaco, che si scoprirà essere Satya Nadella. Adesso sei il/la propretario/a della Microsoft.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
@@ -93,15 +93,15 @@ $(document).ready(function(){
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 	    {
-	    	quote:"Durante una corsetta al Sempione ti distrarrai un po' troppo e ti ritroverai in un bosco incantato. Lì inizierà la tua seconda vita come spacciatore di scivolizia incantata.",
+	    	quote:"Durante una corsetta al Sempione ti distrarrai un po' troppo e ti ritroverai in un bosco incantato. Lì inizierà la tua seconda vita come spacciatore di scivolizia fatata.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 		{
-	    	quote:"Ti dimenticherai il microfono acceso durante una call...proprio in un giorno in cui ti eri svegliato particolarmente ironico. Per fortuna i clienti son tutti presi bene e ridono alle tue battute. Il manager un po' meno. Ti licenziano.",
+	    	quote:"Ti dimenticherai il microfono acceso durante una call...proprio in un giorno in cui ti eri svegliato/a particolarmente ironico/a. Per fortuna i clienti son tutti presi bene e ridono alle tue battute. Il manager un po' meno. Ti licenziano.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 		{
-	    	quote:"Ti dimenticherai il microfono acceso durante una call...proprio in un giorno in cui ti eri svegliato particolarmente ironico. Per fortuna i clienti son tutti presi bene e ridono alle tue battute. Anche il manager. Da quel giorno ti chiederanno sempre di aprire i meeting con un piccolo cabaret.",
+	    	quote:"Ti dimenticherai il microfono acceso durante una call...proprio in un giorno in cui ti eri svegliato/a particolarmente ironico/a. Per fortuna i clienti son tutti presi bene e ridono alle tue battute. Anche il manager. Da quel giorno ti chiederanno sempre di aprire i meeting con un piccolo cabaret.",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 		{
