@@ -129,9 +129,37 @@ $(document).ready(function(){
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
 		{
-	    	quote:"xxxx",
+	    	quote:"Taylor Swift scriverà una canzone su di te. Fortunello/a. (#giustiziapertaylor)",
 	    	name:"Non ti va bene? Vuoi un altro futuro?"
 	    },
+		{
+	    	quote:"Continuerai a fare acquisti online come un/a folle, e sarai ben preso sommerso da scatoloni. Felice, ma sommerso. Faranno un programma di Real Time su di te.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Inventerai la macchina del tempo e deciderai di tornare indietro nel passato per cambiare le cose (cose personali che non sto qui a dire, insomma). Il punto è che l'idea ti è venuta dopo aver letto questo pronostico. Abbiamo creato un bel paradosso temporale eh?",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Leggerai ad alta voce un codice incomprensibile scritto dal cliente. Evocherai un demone e diventerete grandi amici. Peccato che il vostro rapporto si distruggerà quando sarà assunto come stagista. (Questo non glielo dovevi fare eh.)",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Stai bevendo dal 31 dicembre, se non dal 24. E non hai intenzione di smettere. Fidati, non smetterai.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Durante la prima serata del 2021 ti prenderai una sbronza così forte che il giorno dopo ti sveglierai in Valle d'Aosta. Beh si insomma, non è una meta esotica...però dai. Ti sei divertito/a lo stesso.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:"Pensa ad un futuro, pure uno che ti piace. Fatto? Ok. Si avvererà. Scusa, davvero, ma sto finendo le idee.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    },
+		{
+	    	quote:" Ciao, questo è l'ultimo futuro che ho scritto, quante probabilità c'erano che lo beccassi?? 1/40. Non bassissime effettivamente. Vabeh, dato che è un po' speciale, ti accadrà tutto quello che vorrai, hai la mia benedizione.",
+	    	name:"Non ti va bene? Vuoi un altro futuro?"
+	    }
 	];
 		
 
